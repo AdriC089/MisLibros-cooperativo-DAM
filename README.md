@@ -1,7 +1,7 @@
 Proyecto para practicar con git/github. 
 Pasos:
 1. Inicia sesión en tu cuenta de GitHub.
-2. Haz un fork del repositorio MisLibros (https://github.com/cuchilusa/MisLibros-DAM) a tu cuenta de GitHub.
+2. Haz un fork del repositorio MisLibros (https://github.com/cuchilusa/MisLibros-cooperativo-DAM) a tu cuenta de GitHub.
 3. Desde Visual Studio Code clona el repositorio MisLibros que tienes en tu cuenta de GitHub. Así tendrás una copia en tu ordenador (local).
 4. En la terminal, ve a la carpeta Mis-libros con el comando cd Mis-Libros
 5. Crea una nueva rama con tu nombre: git checkout -b Fulanito
